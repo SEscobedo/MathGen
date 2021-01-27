@@ -1,0 +1,51 @@
+Theory [Label]
+
+axiom
+end axiom
+
+
+theorem [label]
+title=
+
+[asumtions=]
+[proposition=]
+proof=
+end theorem
+
+
+proof [label]
+Theorem=
+end proof
+
+def [name] as [type]
+
+definition [label]
+name=
+type=
+end definiton
+
+hypothesis
+title=
+label=
+[asumtions=]
+[proposition=]
+end hypothesis
+
+Method [label]
+end method
+
+Example
+End example
+
+Exercise
+End Exercise
+
+end Theory
+
+Book [label]
+config=
+theory=
+include theory from <filename.txt>
+end book
+
+

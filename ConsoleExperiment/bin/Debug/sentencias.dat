@@ -1,0 +1,11 @@
+tc@;ssPedro;hqes;sqhombre
+tc@;sqhombre;hqes;sqanimal
+tc@;sqanimal;hqes;tqvivo
+tc@;ssJuan;Nhqes;sqhombre
+tc@;sqtigre;hqes;sqanimal
+tc@;tqvivo;hqes;sqsustancia
+tc@;ssDios;Nhqes;tqmortal
+tc@;tqvivo;hqes;tqmortal
+tc@;sqreptil;hqes;sqanimal
+tc@;sqlagarto;hqes;sqreptil
+tc@;sqcocodrilo;hqes;sqreptil

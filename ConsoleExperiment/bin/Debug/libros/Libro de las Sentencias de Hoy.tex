@@ -1,0 +1,504 @@
+﻿\documentclass[12pt]{book}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\newtheorem{theorem}{Teorema}[chapter]
+\newtheorem{definition}{Definición}[chapter]
+\newtheorem{axiom}{Axioma}[chapter]
+\newtheorem{proof}{Demostración}
+\title{Libro de las Sentencias de Hoy}
+\author{Yo Merengues}
+\date{}
+\begin{document}
+\maketitle
+ Introducimos sin definición los conceptos siguientes: \textit{
+Pedro, hombre, animal, vivo, Juan, tigre, sustancia, Dios, mortal, reptil, lagarto, cocodrilo, rico}
+\\
+\\Mediante estos conceptos formamos los axiomas que siguen. \\
+\textbf{Axiomas:}
+\begin{enumerate}
+\item Pedro es hombre
+\item todo hombre es animal
+\item todo animal es vivo
+\item Juan no es hombre
+\item todo tigre es animal
+\item todo vivo es sustancia
+\item Dios no es mortal
+\item todo vivo es mortal
+\item todo reptil es animal
+\item todo lagarto es reptil
+\item todo cocodrilo es reptil
+\item todo hombre es rico
+\end{enumerate}De la lista anterior se deducen los próximos teoremas. \\
+
+\begin{theorem}
+algún animal es Pedro
+\label{th: 12}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\todo hombre es animal	 (Premisa menor) \\Luego, algún animal es Pedro	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+Juan no es Pedro
+\label{th: 13}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\Juan no es hombre	 (Premisa menor) \\Luego, Juan no es Pedro	FigII:Camestres \\ \end{proof}
+\begin{theorem}
+algún rico es Pedro
+\label{th: 14}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\todo hombre es rico	 (Premisa menor) \\Luego, algún rico es Pedro	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+Pedro es animal
+\label{th: 15}
+\end{theorem}\begin{proof}\\todo hombre es animal	 (Premisa mayor) \\Pedro es hombre	 (Premisa menor) \\Luego, Pedro es animal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún vivo es hombre
+\label{th: 16}
+\end{theorem}\begin{proof}\\todo hombre es animal	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, algún vivo es hombre	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún rico es animal
+\label{th: 17}
+\end{theorem}\begin{proof}\\todo hombre es animal	 (Premisa mayor) \\todo hombre es rico	 (Premisa menor) \\Luego, algún rico es animal	FigIII:Darapti \\ \end{proof}
+\begin{theorem}
+todo hombre es vivo
+\label{th: 18}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo hombre es animal	 (Premisa menor) \\Luego, todo hombre es vivo	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo tigre es vivo
+\label{th: 19}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo tigre es animal	 (Premisa menor) \\Luego, todo tigre es vivo	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún sustancia es animal
+\label{th: 20}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo vivo es sustancia	 (Premisa menor) \\Luego, algún sustancia es animal	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún mortal es animal
+\label{th: 21}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo vivo es mortal	 (Premisa menor) \\Luego, algún mortal es animal	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+todo reptil es vivo
+\label{th: 22}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo reptil es animal	 (Premisa menor) \\Luego, todo reptil es vivo	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+Pedro no es Juan
+\label{th: 23}
+\end{theorem}\begin{proof}\\Juan no es hombre	 (Premisa mayor) \\Pedro es hombre	 (Premisa menor) \\Luego, Pedro no es Juan	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+algún animal no es Juan
+\label{th: 24}
+\end{theorem}\begin{proof}\\Juan no es hombre	 (Premisa mayor) \\todo hombre es animal	 (Premisa menor) \\Luego, algún animal no es Juan	FigIV:Fesapo \\ \end{proof}
+\begin{theorem}
+algún rico no es Juan
+\label{th: 25}
+\end{theorem}\begin{proof}\\Juan no es hombre	 (Premisa mayor) \\todo hombre es rico	 (Premisa menor) \\Luego, algún rico no es Juan	FigIV:Fesapo \\ \end{proof}
+\begin{theorem}
+algún vivo es tigre
+\label{th: 26}
+\end{theorem}\begin{proof}\\todo tigre es animal	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, algún vivo es tigre	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+todo animal es sustancia
+\label{th: 27}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, todo animal es sustancia	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún mortal es sustancia
+\label{th: 28}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo vivo es mortal	 (Premisa menor) \\Luego, algún mortal es sustancia	FigIII:Darapti \\ \end{proof}
+\begin{theorem}
+todo vivo no es Dios
+\label{th: 29}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo vivo es mortal	 (Premisa menor) \\Luego, todo vivo no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+todo animal es mortal
+\label{th: 30}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, todo animal es mortal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún sustancia es mortal
+\label{th: 31}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo vivo es sustancia	 (Premisa menor) \\Luego, algún sustancia es mortal	FigIII:Darapti \\ \end{proof}
+\begin{theorem}
+Dios no es vivo
+\label{th: 32}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\Dios no es mortal	 (Premisa menor) \\Luego, Dios no es vivo	FigII:Camestres \\ \end{proof}
+\begin{theorem}
+algún vivo es reptil
+\label{th: 33}
+\end{theorem}\begin{proof}\\todo reptil es animal	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, algún vivo es reptil	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+todo lagarto es animal
+\label{th: 34}
+\end{theorem}\begin{proof}\\todo reptil es animal	 (Premisa mayor) \\todo lagarto es reptil	 (Premisa menor) \\Luego, todo lagarto es animal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo cocodrilo es animal
+\label{th: 35}
+\end{theorem}\begin{proof}\\todo reptil es animal	 (Premisa mayor) \\todo cocodrilo es reptil	 (Premisa menor) \\Luego, todo cocodrilo es animal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún animal es lagarto
+\label{th: 36}
+\end{theorem}\begin{proof}\\todo lagarto es reptil	 (Premisa mayor) \\todo reptil es animal	 (Premisa menor) \\Luego, algún animal es lagarto	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún animal es cocodrilo
+\label{th: 37}
+\end{theorem}\begin{proof}\\todo cocodrilo es reptil	 (Premisa mayor) \\todo reptil es animal	 (Premisa menor) \\Luego, algún animal es cocodrilo	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+Pedro es rico
+\label{th: 38}
+\end{theorem}\begin{proof}\\todo hombre es rico	 (Premisa mayor) \\Pedro es hombre	 (Premisa menor) \\Luego, Pedro es rico	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún animal es rico
+\label{th: 39}
+\end{theorem}\begin{proof}\\todo hombre es rico	 (Premisa mayor) \\todo hombre es animal	 (Premisa menor) \\Luego, algún animal es rico	FigIII:Darapti \\ \end{proof}
+\begin{theorem}
+algún animal es hombre
+\label{th: 40}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\algún animal es Pedro	 (Premisa menor) \\Luego, algún animal es hombre	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún rico es hombre
+\label{th: 41}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\algún rico es Pedro	 (Premisa menor) \\Luego, algún rico es hombre	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún vivo es Pedro
+\label{th: 42}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\todo hombre es vivo	 (Premisa menor) \\Luego, algún vivo es Pedro	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún vivo es animal
+\label{th: 43}
+\end{theorem}\begin{proof}\\todo hombre es animal	 (Premisa mayor) \\algún vivo es hombre	 (Premisa menor) \\Luego, algún vivo es animal	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún sustancia es hombre
+\label{th: 44}
+\end{theorem}\begin{proof}\\todo hombre es animal	 (Premisa mayor) \\todo animal es sustancia	 (Premisa menor) \\Luego, algún sustancia es hombre	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún mortal es hombre
+\label{th: 45}
+\end{theorem}\begin{proof}\\todo hombre es animal	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, algún mortal es hombre	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+Pedro es vivo
+\label{th: 46}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún animal es Pedro	 (Premisa menor) \\Luego, Pedro es vivo	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún rico es vivo
+\label{th: 47}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún rico es animal	 (Premisa menor) \\Luego, algún rico es vivo	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún sustancia es vivo
+\label{th: 48}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún sustancia es animal	 (Premisa menor) \\Luego, algún sustancia es vivo	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún mortal es vivo
+\label{th: 49}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún mortal es animal	 (Premisa menor) \\Luego, algún mortal es vivo	FigI:Darii \\ \end{proof}
+\begin{theorem}
+Dios no es animal
+\label{th: 50}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo vivo no es Dios	 (Premisa menor) \\Luego, Dios no es animal	FigIV:Camenes \\ \end{proof}
+\begin{theorem}
+todo lagarto es vivo
+\label{th: 51}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo lagarto es animal	 (Premisa menor) \\Luego, todo lagarto es vivo	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo cocodrilo es vivo
+\label{th: 52}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\todo cocodrilo es animal	 (Premisa menor) \\Luego, todo cocodrilo es vivo	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún lagarto es vivo
+\label{th: 53}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún animal es lagarto	 (Premisa menor) \\Luego, algún lagarto es vivo	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún cocodrilo es vivo
+\label{th: 54}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún animal es cocodrilo	 (Premisa menor) \\Luego, algún cocodrilo es vivo	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún vivo no es Juan
+\label{th: 55}
+\end{theorem}\begin{proof}\\Juan no es hombre	 (Premisa mayor) \\algún vivo es hombre	 (Premisa menor) \\Luego, algún vivo no es Juan	FigII:Festino \\ \end{proof}
+\begin{theorem}
+algún sustancia es tigre
+\label{th: 56}
+\end{theorem}\begin{proof}\\todo tigre es animal	 (Premisa mayor) \\todo animal es sustancia	 (Premisa menor) \\Luego, algún sustancia es tigre	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún mortal es tigre
+\label{th: 57}
+\end{theorem}\begin{proof}\\todo tigre es animal	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, algún mortal es tigre	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún hombre es sustancia
+\label{th: 58}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún vivo es hombre	 (Premisa menor) \\Luego, algún hombre es sustancia	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+todo hombre es sustancia
+\label{th: 59}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo hombre es vivo	 (Premisa menor) \\Luego, todo hombre es sustancia	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo tigre es sustancia
+\label{th: 60}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo tigre es vivo	 (Premisa menor) \\Luego, todo tigre es sustancia	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo reptil es sustancia
+\label{th: 61}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo reptil es vivo	 (Premisa menor) \\Luego, todo reptil es sustancia	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún tigre es sustancia
+\label{th: 62}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún vivo es tigre	 (Premisa menor) \\Luego, algún tigre es sustancia	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún reptil es sustancia
+\label{th: 63}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún vivo es reptil	 (Premisa menor) \\Luego, algún reptil es sustancia	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún animal no es Dios
+\label{th: 64}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es animal	 (Premisa menor) \\Luego, algún animal no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+algún sustancia no es Dios
+\label{th: 65}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es sustancia	 (Premisa menor) \\Luego, algún sustancia no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+todo animal no es Dios
+\label{th: 66}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, todo animal no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+algún hombre es mortal
+\label{th: 67}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún vivo es hombre	 (Premisa menor) \\Luego, algún hombre es mortal	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+todo hombre es mortal
+\label{th: 68}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo hombre es vivo	 (Premisa menor) \\Luego, todo hombre es mortal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo tigre es mortal
+\label{th: 69}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo tigre es vivo	 (Premisa menor) \\Luego, todo tigre es mortal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo reptil es mortal
+\label{th: 70}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo reptil es vivo	 (Premisa menor) \\Luego, todo reptil es mortal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún tigre es mortal
+\label{th: 71}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún vivo es tigre	 (Premisa menor) \\Luego, algún tigre es mortal	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún reptil es mortal
+\label{th: 72}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún vivo es reptil	 (Premisa menor) \\Luego, algún reptil es mortal	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún sustancia es reptil
+\label{th: 73}
+\end{theorem}\begin{proof}\\todo reptil es animal	 (Premisa mayor) \\todo animal es sustancia	 (Premisa menor) \\Luego, algún sustancia es reptil	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún mortal es reptil
+\label{th: 74}
+\end{theorem}\begin{proof}\\todo reptil es animal	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, algún mortal es reptil	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún vivo es lagarto
+\label{th: 75}
+\end{theorem}\begin{proof}\\todo lagarto es reptil	 (Premisa mayor) \\todo reptil es vivo	 (Premisa menor) \\Luego, algún vivo es lagarto	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún animal es reptil
+\label{th: 76}
+\end{theorem}\begin{proof}\\todo lagarto es reptil	 (Premisa mayor) \\todo lagarto es animal	 (Premisa menor) \\Luego, algún animal es reptil	FigIII:Darapti \\ \end{proof}
+\begin{theorem}
+algún vivo es cocodrilo
+\label{th: 77}
+\end{theorem}\begin{proof}\\todo cocodrilo es reptil	 (Premisa mayor) \\todo reptil es vivo	 (Premisa menor) \\Luego, algún vivo es cocodrilo	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún vivo es rico
+\label{th: 78}
+\end{theorem}\begin{proof}\\todo hombre es rico	 (Premisa mayor) \\algún vivo es hombre	 (Premisa menor) \\Luego, algún vivo es rico	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún hombre es animal
+\label{th: 79}
+\end{theorem}\begin{proof}\\algún animal es Pedro	 (Premisa mayor) \\Pedro es hombre	 (Premisa menor) \\Luego, algún hombre es animal	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+algún sustancia es Pedro
+\label{th: 80}
+\end{theorem}\begin{proof}\\algún animal es Pedro	 (Premisa mayor) \\todo animal es sustancia	 (Premisa menor) \\Luego, algún sustancia es Pedro	FigIII:Disamis \\ \end{proof}
+\begin{theorem}
+algún mortal es Pedro
+\label{th: 81}
+\end{theorem}\begin{proof}\\algún animal es Pedro	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, algún mortal es Pedro	FigIII:Disamis \\ \end{proof}
+\begin{theorem}
+algún hombre no es Juan
+\label{th: 82}
+\end{theorem}\begin{proof}\\Juan no es Pedro	 (Premisa mayor) \\Pedro es hombre	 (Premisa menor) \\Luego, algún hombre no es Juan	FigIV:Fesapo \\ \end{proof}
+\begin{theorem}
+algún hombre es rico
+\label{th: 83}
+\end{theorem}\begin{proof}\\algún rico es Pedro	 (Premisa mayor) \\Pedro es hombre	 (Premisa menor) \\Luego, algún hombre es rico	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+algún animal es vivo
+\label{th: 84}
+\end{theorem}\begin{proof}\\algún vivo es hombre	 (Premisa mayor) \\todo hombre es animal	 (Premisa menor) \\Luego, algún animal es vivo	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+algún sustancia es rico
+\label{th: 85}
+\end{theorem}\begin{proof}\\algún rico es animal	 (Premisa mayor) \\todo animal es sustancia	 (Premisa menor) \\Luego, algún sustancia es rico	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+algún mortal es rico
+\label{th: 86}
+\end{theorem}\begin{proof}\\algún rico es animal	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, algún mortal es rico	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+Dios no es hombre
+\label{th: 87}
+\end{theorem}\begin{proof}\\todo hombre es vivo	 (Premisa mayor) \\todo vivo no es Dios	 (Premisa menor) \\Luego, Dios no es hombre	FigIV:Camenes \\ \end{proof}
+\begin{theorem}
+Dios no es tigre
+\label{th: 88}
+\end{theorem}\begin{proof}\\todo tigre es vivo	 (Premisa mayor) \\todo vivo no es Dios	 (Premisa menor) \\Luego, Dios no es tigre	FigIV:Camenes \\ \end{proof}
+\begin{theorem}
+algún vivo es sustancia
+\label{th: 89}
+\end{theorem}\begin{proof}\\algún sustancia es animal	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, algún vivo es sustancia	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+algún vivo es mortal
+\label{th: 90}
+\end{theorem}\begin{proof}\\algún mortal es animal	 (Premisa mayor) \\todo animal es vivo	 (Premisa menor) \\Luego, algún vivo es mortal	FigIV:Dimaris \\ \end{proof}
+\begin{theorem}
+Dios no es reptil
+\label{th: 91}
+\end{theorem}\begin{proof}\\todo reptil es vivo	 (Premisa mayor) \\todo vivo no es Dios	 (Premisa menor) \\Luego, Dios no es reptil	FigIV:Camenes \\ \end{proof}
+\begin{theorem}
+algún sustancia no es Juan
+\label{th: 92}
+\end{theorem}\begin{proof}\\algún animal no es Juan	 (Premisa mayor) \\todo animal es sustancia	 (Premisa menor) \\Luego, algún sustancia no es Juan	FigIII:Bocardo \\ \end{proof}
+\begin{theorem}
+algún mortal no es Juan
+\label{th: 93}
+\end{theorem}\begin{proof}\\algún animal no es Juan	 (Premisa mayor) \\todo animal es mortal	 (Premisa menor) \\Luego, algún mortal no es Juan	FigIII:Bocardo \\ \end{proof}
+\begin{theorem}
+Dios no es Pedro
+\label{th: 94}
+\end{theorem}\begin{proof}\\Pedro es hombre	 (Premisa mayor) \\Dios no es hombre	 (Premisa menor) \\Luego, Dios no es Pedro	FigII:Camestres \\ \end{proof}
+\begin{theorem}
+algún hombre es vivo
+\label{th: 95}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún animal es hombre	 (Premisa menor) \\Luego, algún hombre es vivo	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún reptil es vivo
+\label{th: 96}
+\end{theorem}\begin{proof}\\todo animal es vivo	 (Premisa mayor) \\algún animal es reptil	 (Premisa menor) \\Luego, algún reptil es vivo	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+Pedro es sustancia
+\label{th: 97}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún vivo es Pedro	 (Premisa menor) \\Luego, Pedro es sustancia	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún animal es sustancia
+\label{th: 98}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún vivo es animal	 (Premisa menor) \\Luego, algún animal es sustancia	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún rico es sustancia
+\label{th: 99}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún rico es vivo	 (Premisa menor) \\Luego, algún rico es sustancia	FigI:Darii \\ \end{proof}
+\begin{theorem}
+todo lagarto es sustancia
+\label{th: 100}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo lagarto es vivo	 (Premisa menor) \\Luego, todo lagarto es sustancia	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo cocodrilo es sustancia
+\label{th: 101}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\todo cocodrilo es vivo	 (Premisa menor) \\Luego, todo cocodrilo es sustancia	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún lagarto es sustancia
+\label{th: 102}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún lagarto es vivo	 (Premisa menor) \\Luego, algún lagarto es sustancia	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún cocodrilo es sustancia
+\label{th: 103}
+\end{theorem}\begin{proof}\\todo vivo es sustancia	 (Premisa mayor) \\algún cocodrilo es vivo	 (Premisa menor) \\Luego, algún cocodrilo es sustancia	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún hombre no es Dios
+\label{th: 104}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es hombre	 (Premisa menor) \\Luego, algún hombre no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+algún vivo no es Dios
+\label{th: 105}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es vivo	 (Premisa menor) \\Luego, algún vivo no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+algún tigre no es Dios
+\label{th: 106}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es tigre	 (Premisa menor) \\Luego, algún tigre no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+todo hombre no es Dios
+\label{th: 107}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo hombre es mortal	 (Premisa menor) \\Luego, todo hombre no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+todo tigre no es Dios
+\label{th: 108}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo tigre es mortal	 (Premisa menor) \\Luego, todo tigre no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+todo reptil no es Dios
+\label{th: 109}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo reptil es mortal	 (Premisa menor) \\Luego, todo reptil no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+algún reptil no es Dios
+\label{th: 110}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún reptil es mortal	 (Premisa menor) \\Luego, algún reptil no es Dios	FigII:Festino \\ \end{proof}
+\begin{theorem}
+Pedro no es Dios
+\label{th: 111}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es Pedro	 (Premisa menor) \\Luego, Pedro no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+algún rico no es Dios
+\label{th: 112}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún mortal es rico	 (Premisa menor) \\Luego, algún rico no es Dios	FigIV:Fresison \\ \end{proof}
+\begin{theorem}
+Pedro es mortal
+\label{th: 113}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún vivo es Pedro	 (Premisa menor) \\Luego, Pedro es mortal	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún animal es mortal
+\label{th: 114}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún vivo es animal	 (Premisa menor) \\Luego, algún animal es mortal	FigIII:Datisi \\ \end{proof}
+\begin{theorem}
+algún rico es mortal
+\label{th: 115}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún rico es vivo	 (Premisa menor) \\Luego, algún rico es mortal	FigI:Darii \\ \end{proof}
+\begin{theorem}
+todo lagarto es mortal
+\label{th: 116}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo lagarto es vivo	 (Premisa menor) \\Luego, todo lagarto es mortal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+todo cocodrilo es mortal
+\label{th: 117}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\todo cocodrilo es vivo	 (Premisa menor) \\Luego, todo cocodrilo es mortal	FigI:Barbara \\ \end{proof}
+\begin{theorem}
+algún lagarto es mortal
+\label{th: 118}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún lagarto es vivo	 (Premisa menor) \\Luego, algún lagarto es mortal	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún cocodrilo es mortal
+\label{th: 119}
+\end{theorem}\begin{proof}\\todo vivo es mortal	 (Premisa mayor) \\algún cocodrilo es vivo	 (Premisa menor) \\Luego, algún cocodrilo es mortal	FigI:Darii \\ \end{proof}
+\begin{theorem}
+algún sustancia es lagarto
+\label{th: 120}
+\end{theorem}\begin{proof}\\todo lagarto es reptil	 (Premisa mayor) \\todo reptil es sustancia	 (Premisa menor) \\Luego, algún sustancia es lagarto	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún mortal es lagarto
+\label{th: 121}
+\end{theorem}\begin{proof}\\todo lagarto es reptil	 (Premisa mayor) \\todo reptil es mortal	 (Premisa menor) \\Luego, algún mortal es lagarto	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+Dios no es lagarto
+\label{th: 122}
+\end{theorem}\begin{proof}\\todo lagarto es reptil	 (Premisa mayor) \\Dios no es reptil	 (Premisa menor) \\Luego, Dios no es lagarto	FigII:Camestres \\ \end{proof}
+\begin{theorem}
+algún sustancia es cocodrilo
+\label{th: 123}
+\end{theorem}\begin{proof}\\todo cocodrilo es reptil	 (Premisa mayor) \\todo reptil es sustancia	 (Premisa menor) \\Luego, algún sustancia es cocodrilo	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+algún mortal es cocodrilo
+\label{th: 124}
+\end{theorem}\begin{proof}\\todo cocodrilo es reptil	 (Premisa mayor) \\todo reptil es mortal	 (Premisa menor) \\Luego, algún mortal es cocodrilo	FigIV:Bramantip \\ \end{proof}
+\begin{theorem}
+todo lagarto no es Dios
+\label{th: 125}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo lagarto es mortal	 (Premisa menor) \\Luego, todo lagarto no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+todo cocodrilo no es Dios
+\label{th: 126}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\todo cocodrilo es mortal	 (Premisa menor) \\Luego, todo cocodrilo no es Dios	FigII:Cesare \\ \end{proof}
+\begin{theorem}
+algún lagarto no es Dios
+\label{th: 127}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún lagarto es mortal	 (Premisa menor) \\Luego, algún lagarto no es Dios	FigII:Festino \\ \end{proof}
+\begin{theorem}
+algún cocodrilo no es Dios
+\label{th: 128}
+\end{theorem}\begin{proof}\\Dios no es mortal	 (Premisa mayor) \\algún cocodrilo es mortal	 (Premisa menor) \\Luego, algún cocodrilo no es Dios	FigII:Festino \\ \end{proof}
+\\\small{Este libro fue generado automáticamene por NOVA.} \\
+\small{Salvador D. Escobedo, Julio 2016}.
+\end{document}

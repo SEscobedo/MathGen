@@ -1,0 +1,4 @@
+(a en U & b en U) -> ((a=b) -> (b=a))
+(a en U & b en U & c en U) -> (((a=b)&(b=c)) -> (a=c))
+(a en U) -> (a=a)
+(b en U & a en U) -> ((a+b)=(b+a))

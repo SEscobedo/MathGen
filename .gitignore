@@ -1,0 +1,5 @@
+.vs
+**/ConsoleExpriment/bin/Debug
+**/ConsoleExpriment/obj
+**/LibGen/bin/Debug
+**/LibGen/obj

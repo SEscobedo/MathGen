@@ -1,0 +1,125 @@
+documento
+%comentario
+perfil
+ descripcion
+  nombre=Salvador Daniel Escobedo Casillas
+  direccion=Caldeos 308 Col.Altamira, Zapopan Jalisco
+  fecha_nacimiento=6/feb/1979
+  sexo=masculino
+  movil=3339502539
+  e-mail=salvadec@live.com.mx
+ fin descripcion
+%===============================
+ proyecto
+  descripcion
+  nombre=Licenciatura en Física
+  clave=E-05
+  id=45
+  fin descripcion
+%.........................
+subproyecto
+ descripcion
+ nombre=Electromagnetismo
+ tipo=materia académica
+ fin descripcion
+%
+  tarea
+  lugar=CUCEI
+  tiempo=17/8/2015,17/12/2015,,13:00,14:55,S-M
+  titulo=clase de electromagnetismo
+  tipo=clase
+  estado=electa
+  fin tarea
+fin subproyecto
+%...........................
+subproyecto
+ descripcion
+ nombre=Laboratorio de Electromagnetismo
+ tipo=materia académica
+ fin descripcion
+%
+  tarea
+  lugar=CUCEI
+  tiempo=17/8/2015,17/12/2015,,13:00,15:55,S-v
+  titulo=Laboratorio de electromagnetismo
+  tipo=clase en laboratorio
+  estado=electa
+  fin tarea
+fin subproyecto
+%.............................
+subproyecto
+ descripcion
+ nombre=Taller de Electromagnetismo
+ tipo=materia académica
+ fin descripcion
+%
+tarea
+  lugar=CUCEI
+  tiempo=17/8/2015,17/12/2015,,13:00,14:55,S-j
+  titulo=Taller de electromagnetismo
+  tipo=clase práctica
+  estado=electa
+ fin tarea
+fin subproyecto
+subproyecto
+ descripcion
+ nombre=Seminario de investigación
+ tipo=materia académica
+ fin descripcion
+%
+  tarea
+  lugar=CUCEI
+  tiempo=17/8/2015,17/12/2015,,11:00,12:55,S-v
+  titulo=Seminario de investigación
+  tipo=clase conferencias
+  estado=registrada
+  fin tarea
+fin subproyecto
+subproyecto
+ descripcion
+ nombre=Laboratorio de electrónica básica
+ tipo=materia académica
+ fin descripcion
+%
+  tarea
+  lugar=CUCEI
+  tiempo=17/8/2015,17/12/2015,,11:00,12:55,S-i
+  titulo=Laboratorio de electrónica básica
+  tipo=clase en laboratorio
+  estado=registrada
+  fin tarea
+fin subproyecto
+subproyecto
+ descripcion
+ nombre=Física Moderna
+ tipo=materia académica
+ fin descripcion
+%
+  tarea
+  lugar=CUCEI
+  tiempo=12/10/2015,17/12/2015,,13:00,14:55,S-M
+  titulo=Física Moderna
+  tipo=clase teoria
+  estado=electa
+  fin tarea
+fin subproyecto
+%.......................
+ fin proyecto
+%===================================
+ proyecto
+  descripcion
+  clave=E-05
+  id=65
+  nombre=Ingeniería en desarrollo de software
+  fin descripcion
+subproyecto
+ descripcion
+  nombre=Fundamentos de programación I
+  clave=M45
+  id=55
+  tipo=clase online
+  fin descripcion
+fin subproyecto
+ fin proyecto
+fin perfil
+fin documento

@@ -1,0 +1,21 @@
+\chapter{nociones básicas}
+Definición:\Delta;Laplaciano;operador;;D_1^{2}+D_2^{2}+...+D_n^{2};
+definición:1;número uno;número natural;;;
+definición:u;;número natural;u> 1;;>,1
+Definición:f;Función de Adri;función;;45+h;
+definición:x;;número complejo;;;
+Definición: \delta;;número complejo;;x^{h_1} + i;
+definición:f;función de Pink;función;;;
+definición:x;;número real;;;
+subteorema:;;;f(x) = yu;
+subteorema:;;;f(x) = yu_1;
+teorema:f;;;f(x) = yu_1;
+definición:x;;número racional;;;
+definición:y;;número real;;;
+subdefinición:f;f de woldf;número real;;542+c;
+subdefinición:g;función de Galois;función;;45 ^{n};
+%Esto es un comentario
+definición:a;;número real;;;
+definición:b;;número real;;;
+subaxioma:;;a+b = b+a
+subaxioma:;;ab = ba

@@ -1,0 +1,44 @@
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe.config
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.exe
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.xml
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.pdb
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.pdb
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.xml
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbprojResolveAssemblyReference.cache
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.Resources.resources
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbproj.GenerateResource.Cache
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe.config
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.exe
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.xml
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.pdb
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.pdb
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.xml
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbprojResolveAssemblyReference.cache
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.Resources.resources
+\\JPL\Users\NASA\ARCHIVOS DE PROYECTOS\PROGRAMACIÓN\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbproj.GenerateResource.Cache
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe.config
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.exe
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.xml
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.pdb
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.pdb
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.xml
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\System.Net.Http.dll
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\System.Net.Http.xml
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbprojResolveAssemblyReference.cache
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.Resources.resources
+C:\Users\NASA\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbproj.GenerateResource.Cache
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe.config
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.exe
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.pdb
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\bin\Debug\ConsoleExperiment.xml
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbprojAssemblyReference.cache
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.Resources.resources
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbproj.GenerateResource.cache
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.vbproj.CoreCompileInputs.cache
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.exe
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.xml
+D:\ARCHIVOS DE PROYECTOS\DESARROLLO\SERIE C Inteligencia artificial\P-47 MatGen\LibGen\ConsoleExperiment\obj\Debug\ConsoleExperiment.pdb
